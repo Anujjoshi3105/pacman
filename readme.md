@@ -62,7 +62,7 @@ For detailed rules and specifications, refer to the [rule.pdf](/rule.pdf) docume
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## Acknowledgments
 
