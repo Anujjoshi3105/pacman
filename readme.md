@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anujjoshi3105/pacman-game.git
+   git clone https://github.com/anujjoshi3105/pacman.git
    ```
 
 2. Compile the source code:
@@ -48,7 +48,7 @@ Replace `<map_file_name>` with the name of the text file containing the maze met
 
 Navigate Pacman through the maze to eat all pellets and reach the goal. Avoid ghosts roaming the maze; colliding with a ghost results in game over. Use the undo feature ('U') to backtrack and avoid ghosts effectively.
 
-For detailed rules and specifications, refer to the [rule.pdf](https://github.com/anujjoshi3105/pacman-game/rule.pdf) document provided in the repository.
+For detailed rules and specifications, refer to the [rule.pdf](https://github.com/anujjoshi3105/pacman/rule.pdf) document provided in the repository.
 
 ## Built With
 
@@ -60,7 +60,7 @@ For detailed rules and specifications, refer to the [rule.pdf](https://github.co
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/anujjoshi3105/pacman-game/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/anujjoshi3105/pacman/LICENSE.md) file for details.
 
 ## Acknowledgments
 
