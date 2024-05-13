@@ -1,6 +1,8 @@
 # Pacman Maze Game
 
 Welcome to the Pacman Maze Game! This classic maze adventure allows you to guide Pacman through a challenging labyrinth while avoiding pesky ghosts.
+
+
 ![pacman](pacman.gif)
 
 ## Getting Started
@@ -48,7 +50,7 @@ Replace `<map_file_name>` with the name of the text file containing the maze met
 
 Navigate Pacman through the maze to eat all pellets and reach the goal. Avoid ghosts roaming the maze; colliding with a ghost results in game over. Use the undo feature ('U') to backtrack and avoid ghosts effectively.
 
-For detailed rules and specifications, refer to the [rule.pdf](https://github.com/anujjoshi3105/pacman/rule.pdf) document provided in the repository.
+For detailed rules and specifications, refer to the [rule.pdf](/rule.pdf) document provided in the repository.
 
 ## Built With
 
